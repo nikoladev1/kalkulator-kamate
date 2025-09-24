@@ -1,13 +1,7 @@
 # Kalkulator Kamate 🇷🇸
 
-[![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-
 **Napredni kalkulator kamate** sa modernim korisničkim interfejsom potpuno na srpskom jeziku. Savršen alat za finansijsko planiranje kredita i štednje.
 
-![Kalkulator Kamate Preview](https://via.placeholder.com/800x400/2c3e50/ffffff?text=Kalkulator+Kamate+-+Preview)
 
 ## 🌟 Ključne Osobine
 
@@ -41,7 +35,7 @@
 Ako želite da hostujete kalkulator:
 1. Fork-ujte ovaj repozitorijum
 2. U podešavanjima repozitorijuma omogućite GitHub Pages
-3. Kalkulator će biti dostupan na `https://nikoladev1.github.io/kalkulator-kamate`
+3. Kalkulator će biti dostupan na ``   **[kalkulator kamate](https://nikoladev1.github.io/kalkulator-kamate)**
 
 ## 📋 Kako Koristiti
 
